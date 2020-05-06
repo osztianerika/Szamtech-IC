@@ -1,0 +1,2 @@
+# Szamtech-IC
+Első projekt
